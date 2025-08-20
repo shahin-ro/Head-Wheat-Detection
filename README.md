@@ -29,7 +29,7 @@ This project leverages the power of the YOLO11n model to detect wheat heads in a
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wheat-detection.git
+   git clone https://github.com/shahin-ro/wheat-detection.git
    cd wheat-detection
    ```
 2. Install dependencies:
